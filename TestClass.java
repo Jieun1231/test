@@ -1,7 +1,7 @@
 package test;
 
-public class TestClass {
-    public void static main(String[] args) {
-        System.out.println("hello");
+public class  {
+    public static void main(String[] args) {
+        System.out.println("hello! ");
     }
 }
